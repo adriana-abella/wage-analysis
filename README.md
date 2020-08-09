@@ -1,1 +1,2 @@
 # wage-analysis
+The dataset was retrieved from https://open.canada.ca/data/en/dataset/e15f2c98-b09a-4713-b957-aa440dc0f026. It's titled "Average and median gender pay ratio in annual wages, salaries, and commissions." The objective of this dataset is to track the earnings of Canadians and compare them based on gender. Earnings in terms of this dataset refer to yearly total compensation, including wages, salaries, and commissions.
